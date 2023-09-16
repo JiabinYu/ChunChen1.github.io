@@ -1,8 +1,8 @@
 main:
 
-  #- title: "Contact"
-  #  url: ./#contact 
-  #  right: true 
+  - title: "Contact"
+    url: ./#contact 
+    right: true 
 
   #- title: "Services"
   #  url: ./#services
@@ -13,17 +13,19 @@ main:
   #- title: "Teaching"
   #  url: ./#teaching
 
-  - title: "Bio"
-    url: ./#about-me
-
-  - title: "Conferences & Events"
-    url: ./#conference
+  - title: "More"
+    url: ./#moreaboutme
 
   - title: "Publications"
     url: ./#publications
 
+  - title: "Conferences & Events"
+    url: ./#conference
+
+  - title: "Bio"
+    url: ./#about-me
+
   #- title: "News"
   #  url: ./#news
 
-  - title: "More"
-    url: ./#moreaboutme
+ 
