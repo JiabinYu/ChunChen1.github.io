@@ -6,7 +6,7 @@
 
 <!-- This is the latest version of my homepage's source code. Feel free to use and share. -->
 <br />
-Forked from songchen.github.io. , For more details, please refer to this repository: <https://github.com/yaoyao-liu/minimal-light>.
+Forked from [songchen.github.io.](https://github.com/song-chen1/) , For more details, please refer to this repository: <https://github.com/yaoyao-liu/minimal-light>.
 
 ### Using Locally with Jekyll
 
