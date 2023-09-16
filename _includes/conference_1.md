@@ -5,10 +5,6 @@
 
 <ul>
 <li><strong>[SEP. 2023]</strong> The BeMAGIC Final Event will be held between 14-15 December 2023 at <a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">UAB</a>, Barcelona, Spain.</li>	
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-<div id="newsmore" style="display:none">
-<li><strong>[JUN. 2021]</strong> Join the <a href="https://www.spin-ion.com/">Spin-Ion Technologies</a>, involved in the <a href="https://bemagic-etn.eu/">BeMAGIC</a> program (Marie Sklodowska-Curie European Training Network).</li>
-</div>
 <ul>
 
 <!--
