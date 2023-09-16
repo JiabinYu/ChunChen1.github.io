@@ -1,6 +1,6 @@
 <h1 id="conferences"></h1>
 
-<h2 style="margin: 60px 0px 10px;">More</h2>
+<h2 style="margin: 60px 0px 10px;">More abot me</h2>
 
 More about  me
 
