@@ -41,7 +41,4 @@ I am currently a Physics Ph.D. student at [Stewart Blusson Quantum Matter Instit
 
 {% include_relative _includes/talks.md %}
 
-{% include_relative _includes/services.md %}
-
-
- -->
+{% include_relative _includes/services.md %}  -->
