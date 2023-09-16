@@ -11,11 +11,16 @@ I am currently a Physics Ph.D. student at [Stewart Blusson Quantum Matter Instit
 I am currently a Physics Ph.D. student at [Stewart Blusson Quantum Matter Institute](https://qmi.ubc.ca/) and [The University of British Columbia](https://www.ubc.ca/).  My research involves ...
 
 ## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
+- **Scanning probe microscopy:** STM, STS, AFM
+  
+<!--
 - **Machine Learning:** fairness AI, penalization and augmentation methods, good.
 - **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
 - **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics 
+-->
+
+<!-- Main text/under _includes -->
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
