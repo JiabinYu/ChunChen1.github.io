@@ -13,6 +13,9 @@ main:
   #- title: "Teaching"
   #  url: ./#teaching
 
+  - title: "Bio"
+    url: ./#about-me
+
   - title: "Conferences & Events"
     url: ./#conference
 
@@ -21,9 +24,6 @@ main:
 
   #- title: "News"
   #  url: ./#news
-
-  - title: "Bio"
-    url: ./#about-me
 
   - title: "More"
     url: ./#moreaboutme
