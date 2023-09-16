@@ -32,6 +32,8 @@ https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/7d16d828a229580815428782
 
 This project uses the source code from the following repositories:
 
+* [song-chen homepage](https://github.com/song-chen1)
+
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
