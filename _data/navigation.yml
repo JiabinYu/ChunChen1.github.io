@@ -1,8 +1,8 @@
 main:
 
-  - title: "Contact"
-    url: ./#contact 
-    right: true 
+  #- title: "Contact"
+  #  url: ./#contact 
+  #  right: true 
 
   #- title: "Services"
   #  url: ./#services
@@ -15,6 +15,7 @@ main:
 
   - title: "More"
     url: ./#moreaboutme
+    right: true 
 
   - title: "Publications"
     url: ./#publications
