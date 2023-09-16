@@ -22,11 +22,13 @@ I am currently a Physics Ph.D. student at [Stewart Blusson Quantum Matter Instit
 -->
 
 <!-- Main text/under _includes -->
-{% include_relative _includes/news.md %}
+{% include_relative _includes/Conferences_Events.md %}
 
 {% include_relative _includes/publications.md %}
 
+<!--
 {% include_relative _includes/conference_1.md %}
+-->
 
 {% include_relative _includes/contact.md %}
 <!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong> -->
