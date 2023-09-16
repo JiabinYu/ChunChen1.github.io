@@ -1,4 +1,4 @@
-<h1 id="conferences"></h1>
+<h1 id="moreaboutme"></h1>
 
 <h2 style="margin: 60px 0px 10px;">More about me</h2>
 
