@@ -8,7 +8,7 @@ layout: homepage
 
 <!--
 I am currently a Physics Ph.D. student at [Stewart Blusson Quantum Matter Institute](https://qmi.ubc.ca/) and [The University of British Columbia], working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation. -->
-I am currently a Physics Ph.D. student at [Stewart Blusson Quantum Matter Institute](https://qmi.ubc.ca/) and [The University of British Columbia](https://www.ubc.ca/).  My research involves ...
+I am currently a Physics Ph.D. student at [Stewart Blusson Quantum Matter Institute](https://qmi.ubc.ca/) and [The University of British Columbia](https://www.ubc.ca/), sin Vancouver, Canada.  My research involves ...
 
 ## Research Interest:
 - **Scanning probe microscopy:** STM, STS, AFM
